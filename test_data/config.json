@@ -1,0 +1,13 @@
+{
+  "port": "7878",
+  "device": "local",
+  "platformName": "android",
+  "deviceName": "oneplus",
+  "app": "",
+  "udid": "emulator-5554",
+  "appPackage": "com.pinterest",
+  "appActivity": ".activity.PinterestActivity",
+  "user_id": "",
+  "token": "",
+  "app_id": ""
+}

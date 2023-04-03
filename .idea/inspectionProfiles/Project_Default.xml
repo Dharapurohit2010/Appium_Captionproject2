@@ -1,0 +1,15 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="math_article.volume.volume_of_cone" />
+          <option value="math_article.volume.volume_of_cylinder" />
+          <option value="math_article.volume.volume_of_sphere" />
+          <option value="selenium.webdriver.remote.webdriver.execute.script" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
